@@ -3,3 +3,5 @@
 Godeps/Readme
 Godeps/_workspace
 .profile
+
+.DS_Store
